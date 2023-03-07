@@ -23,6 +23,4 @@ use git status for checking progress
 
 ### REVERSING ACTIONS
 - git reset to undo git add
-- git reset HEAD to undo commit
-
-## RESET THIS COMMIT
+- git reset HEAD to undo commit (add ~ and a number after HEAD to point at older commits)
