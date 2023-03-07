@@ -7,6 +7,7 @@ Not much to see here (:
 ## REMINDERS ON CLI WORKFLOW
 
 use cd to access directories
+use git status for checking progress
 
 ### COMMITING
 - Edit Code
@@ -19,5 +20,3 @@ use cd to access directories
 - (check the branch) git branch
 - (switch | -b new branches) git checkout -b new-branch-name
 - (check code diff) git diff
-
-#### Branch one test here
