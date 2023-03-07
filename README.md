@@ -21,5 +21,6 @@ use git status for checking progress
 - (switch | -b new branches) git checkout -b new-branch-name
 - (check code diff) git diff
 
+### REVERSING ACTIONS
+- git reset to undo git add
 
-#### Uncommit this change
