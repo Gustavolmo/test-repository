@@ -20,3 +20,6 @@ use git status for checking progress
 - (check the branch) git branch
 - (switch | -b new branches) git checkout -b new-branch-name
 - (check code diff) git diff
+
+
+#### Uncommit this change
