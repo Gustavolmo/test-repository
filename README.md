@@ -4,13 +4,17 @@ This is a repository created as a way for me to learn about and explore Git and 
 
 Not much to see here (:
 
-## REMINDERS ON WORKFLOW
+## REMINDERS ON CLI WORKFLOW
 
 use cd to access directories
 
-### ON CLI
+### COMMITING
 - Edit Code
-- use "git add file-name | .
+- git add file-name | .
 - git commit -m "text" -m "text"
 - git push origin main | master 
 - Pull request on GitHub if needed
+
+### BRANCHING
+- git branch
+- git checkout -b new-branch-name 
