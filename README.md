@@ -4,16 +4,20 @@ This is a repository created as a way for me to learn about and explore Git and 
 
 Not much to see here (:
 
-## REMINDERS ON WORKFLOW
+## REMINDERS ON CLI WORKFLOW
 
 use cd to access directories
 
-### ON CLI
+### COMMITING
 - Edit Code
-- use "git add file-name | .
+- git add file-name | .
 - git commit -m "text" -m "text"
 - git push origin main | master 
 - Pull request on GitHub if needed
 
-#### BRANCH ONE TEST
-Just a demo
+### BRANCHING
+- (check the branch) git branch
+- (switch | -b new branches) git checkout -b new-branch-name
+- (check code diff) git diff
+
+#### Branch one test here
