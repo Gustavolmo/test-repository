@@ -4,10 +4,12 @@ This is a repository created as a way for me to learn about and explore Git and 
 
 Not much to see here (:
 
-## REMINDERS ON CLI WORKFLOW
-
-use cd to access directories
-use git status for checking progress
+## USEFUL STUFF
+- use cd to access directories
+- use git status for checking progress
+- use git log to see commit history
+- git remote add origin (link SSH)
+- git push origin main (or other branch) | git push (link SSH)
 
 ### COMMITING
 - Edit Code & Save
