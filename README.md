@@ -4,6 +4,13 @@ This is a repository created as a way for me to learn about and explore Git and 
 
 Not much to see here (:
 
-## MORE TEST
+## REMINDERS ON WORKFLOW
 
-New line
+use cd to access directories
+
+### ON CLI
+- Edit Code
+- use "git add file-name | .
+- git commit -m "text" -m "text"
+- git push origin main | master 
+- Pull request on GitHub if needed
