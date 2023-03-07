@@ -10,7 +10,7 @@ use cd to access directories
 use git status for checking progress
 
 ### COMMITING
-- Edit Code
+- Edit Code & Save
 - git add file-name | .
 - git commit -m "text" -m "text"
 - git push origin main | master 
@@ -25,3 +25,4 @@ use git status for checking progress
 - git reset to undo git add
 - git reset HEAD to undo commit
 
+## RESET THIS COMMIT
